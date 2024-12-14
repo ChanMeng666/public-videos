@@ -60,11 +60,31 @@ https://github.com/user-attachments/assets/d6b021fb-940c-421f-a588-c1a52debe802
 
 https://github.com/user-attachments/assets/7b9860a6-9363-4d97-9afd-d23a0a820ed2
 
+## Selwyn Panel Beaters Online Service
 
+https://github.com/user-attachments/assets/4f54602c-de83-4c69-86a3-13523f392b97
 
+## Biosecurity
 
+https://github.com/user-attachments/assets/3eaa8f5e-7d5f-43ea-8b34-e7c3375c7fbf
 
+## Swimming Club Management System
 
+## Job Value Assessment Tool
+
+https://github.com/user-attachments/assets/d4e4fa3e-efbf-460e-b690-84db3792d470
+
+## Interactive Story Generator
+
+https://github.com/user-attachments/assets/f2a6c5f9-965d-4bae-828b-582b103e3da3
+
+## AI Image Generator
+
+https://github.com/user-attachments/assets/73b3fd09-7377-414e-b63a-f74b5805a6d3
+
+## Chinese Redefine
+
+https://github.com/user-attachments/assets/a35c5299-b482-488d-bc25-4c4e339dff2c
 
 
 
