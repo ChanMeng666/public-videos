@@ -82,12 +82,25 @@ https://github.com/user-attachments/assets/f2a6c5f9-965d-4bae-828b-582b103e3da3
 
 https://github.com/user-attachments/assets/73b3fd09-7377-414e-b63a-f74b5805a6d3
 
+## English Redefine
+
+https://github.com/user-attachments/assets/2569d52f-5986-48bc-b374-7d5c385aa1e0
+
 ## Chinese Redefine
 
 https://github.com/user-attachments/assets/a35c5299-b482-488d-bc25-4c4e339dff2c
 
+## AI Programming Education
 
+https://github.com/user-attachments/assets/671ab09c-f6b9-4397-8223-c95a8ce11063
 
+## FemTracker Mobile App
+
+https://github.com/user-attachments/assets/e6cc7052-61cd-4dda-acfe-a938c7f1d21b
+
+## Brick Breaker Game
+
+https://github.com/user-attachments/assets/4475373e-13d7-4664-950a-55f014886b2c
 
 
 
