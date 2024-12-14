@@ -36,6 +36,30 @@ https://github.com/user-attachments/assets/2b6dd006-5a36-4ede-85e6-9e58dab940a0
 
 https://github.com/user-attachments/assets/251bc6c5-5312-45e4-a6b0-5374ba96b338
 
+## Minimalist Living
+
+https://github.com/user-attachments/assets/e4720873-2ca8-4f40-a312-4c9cf3297e1f
+
+## Forward with Her
+
+https://github.com/user-attachments/assets/a8b7fe5d-c1a9-40b0-843d-58f6a3abd75b
+
+## Reincarnation Journey
+
+https://github.com/user-attachments/assets/8f0bbcb4-4ccf-4325-903c-83f0e3025ed7
+
+## FreePeriod Official
+
+https://github.com/user-attachments/assets/0833b69c-72e5-4305-b79a-8f515deeb09a
+
+## Library Management
+
+https://github.com/user-attachments/assets/d6b021fb-940c-421f-a588-c1a52debe802
+
+## East Coast Anglers Club
+
+https://github.com/user-attachments/assets/7b9860a6-9363-4d97-9afd-d23a0a820ed2
+
 
 
 
