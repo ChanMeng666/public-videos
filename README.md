@@ -106,6 +106,10 @@ https://github.com/user-attachments/assets/4475373e-13d7-4664-950a-55f014886b2c
 
 https://github.com/user-attachments/assets/009e3904-4fa0-4e09-9606-20140c7a5b3c
 
+## Emoji Story Generator
+
+https://github.com/user-attachments/assets/e641612f-45e9-4a25-86d5-ee240a4cd99f
+
 
 
 
