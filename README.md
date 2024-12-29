@@ -110,7 +110,9 @@ https://github.com/user-attachments/assets/009e3904-4fa0-4e09-9606-20140c7a5b3c
 
 https://github.com/user-attachments/assets/e641612f-45e9-4a25-86d5-ee240a4cd99f
 
+## MCP Server Ggoogle News
 
+https://github.com/user-attachments/assets/11ce2557-cfeb-48c2-a7f4-e5093dfabbae
 
 
 
