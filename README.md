@@ -1,4 +1,4 @@
-# public-videos
+# Public Videos
 
 ## CORDE
 
@@ -116,7 +116,11 @@ https://github.com/user-attachments/assets/11ce2557-cfeb-48c2-a7f4-e5093dfabbae
 
 
 
+# 🙋‍♀ Author
 
+Created and maintained by [Chan Meng](https://chanmeng.live/).
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=normal&logo=github&logoColor=white)](https://github.com/ChanMeng666)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanmeng666/)
 
 
 
