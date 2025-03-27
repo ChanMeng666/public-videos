@@ -121,6 +121,10 @@ https://github.com/user-attachments/assets/e641612f-45e9-4a25-86d5-ee240a4cd99f
 https://github.com/user-attachments/assets/11ce2557-cfeb-48c2-a7f4-e5093dfabbae
 
 
+# Sanicle AI
+
+https://github.com/user-attachments/assets/4e308361-316a-47db-b6a1-8bf36a19f9fe
+
 
 # 🙋‍♀ Author
 
