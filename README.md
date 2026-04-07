@@ -128,7 +128,7 @@ https://github.com/user-attachments/assets/4e308361-316a-47db-b6a1-8bf36a19f9fe
 
 # 🙋‍♀ Author
 
-Created and maintained by [Chan Meng](https://chanmeng.live/).
+Created and maintained by [Chan Meng](https://chanmeng.org/).
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=normal&logo=github&logoColor=white)](https://github.com/ChanMeng666)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanmeng666/)
 
