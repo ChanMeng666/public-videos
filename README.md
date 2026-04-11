@@ -1,5 +1,7 @@
 # Public Videos
 
+![Suno Card](https://github-readme-suno-cards-lrpl2jknu-chan-mengs-projects.vercel.app/api/card?id=a885e43c-6918-456f-a5f0-0e8e29e61066)
+
 ## CORDE
 
 https://github.com/user-attachments/assets/17a3e465-dffd-47c1-a7e9-e7918ad0ad0a
